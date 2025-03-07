@@ -1,0 +1,34 @@
+/* Style for the heading on index.html */
+h1 {
+    color: #333;
+    text-align: center;
+}
+
+/* Style for the body on index.html */
+body {
+    font-family: Arial, sans-serif;
+    background-color:#f0f8ff;
+    margin:0;
+    padding: 20px;
+}
+
+/* Style for the paragraph */
+p {
+    color: #555;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+/* Style for the buttom */
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: not-allowed;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
